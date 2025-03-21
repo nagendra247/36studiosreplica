@@ -1,12 +1,19 @@
-# React + Vite
+ # 🎬 ThirtySixStudio Animation Replica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 This project is a replica animation of **ThirtySixStudio**, built using **React.js** and **GSAP**.  
+👉 Live Demo: [36studiosreplica.netlify.app](https://36studiosreplica.netlify.app/)  
 
-Currently, two official plugins are available:
+## 🛠️ Technologies Used  
+- **React.js** ⚛️  
+- **GSAP (GreenSock Animation Platform)** 🎥  
+- **Vite** ⚡ (for fast development and build)  
+- **CSS / TailwindCSS** 🎨  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview  
+![Project Screenshot](your-screenshot-url) *(Add a screenshot of your project here!)*  
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Setup & Installation  
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   cd YOUR_REPO
